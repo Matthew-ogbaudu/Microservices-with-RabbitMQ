@@ -6,6 +6,10 @@ composer require --dev phpunit/phpunit
 laravel queue rabbitmq
 composer require vladimir-yuldashev/laravel-queue-rabbitmq
 
+DEMO VIDEO
+https://streamable.com/o185zu
+
+
 
 STEP 1
 - Boot the Docker Container on the Users project
