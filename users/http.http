@@ -1,0 +1,9 @@
+POST https://localhost:8000/api/user/create
+Accept: application/json
+Content-Type: application/json
+{
+    "email":"frankogbaudu@gmail.com",
+    "firstName":"Matthew",
+    "lastName":"Ogbaudu
+
+}
