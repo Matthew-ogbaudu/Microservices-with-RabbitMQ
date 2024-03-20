@@ -1,4 +1,4 @@
-NEXT BASKET Technical Assessment Solution
+
 I am making use of laravel and RabbitMQ for message broker
 --Things i installed
 php unit
